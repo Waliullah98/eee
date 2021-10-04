@@ -1,0 +1,54 @@
+.container{
+    margin-top: 20px;
+    /* background-color: aqua; */
+}
+
+
+
+
+
+.green{
+    border: 2px solid green;
+}
+
+
+
+
+
+
+
+footer a{
+    text-decoration: none;
+    font-size: larger;
+    color: rgb(218, 143, 32);
+    font-weight: bold;
+}
+/* header a{
+    text-decoration: none;
+    font-size: larger;
+    color: rgb(120, 221, 137);
+    font-weight: bold;
+} */
+
+/* .www{
+    background-color: bisque;
+}
+.btn{
+    margin: 0 10px;
+}
+
+.row1{
+    border:2px solid pink;
+}
+.col1{
+    padding: 10px;
+
+    border:2px solid rgb(25, 156, 84)
+}
+img{
+    width: 100%;
+}
+h1:hover{
+    color: rgb(14, 39, 122);
+    text-align: center;
+} */
